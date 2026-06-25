@@ -28,3 +28,5 @@ To improve electrical safety by preventing overload, overheating, and unnecessar
 
 ## Outcome
 Successfully developed a working protection circuit capable of automatically cutting off power under predefined conditions to enhance system reliability and safety.
+## Project Report
+[View Project Report](project%201%20automatic%20power%20cutoff%20circuit.pdf)
